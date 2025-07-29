@@ -33,3 +33,7 @@ Once an `.eml` file is selected, the program:
 1. Clone the repository
 2. pip install beautifulsoup4 tldextract
 3. py main.py
+
+## Author
+
+Created by Ryan Medeiros (https://github.com/ryanfmedeiros)
